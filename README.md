@@ -201,3 +201,21 @@ MiroFish 的仿真引擎由 **[OASIS](https://github.com/camel-ai/oasis)** 驱�
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=666ghj/MiroFish&type=date&legend=top-left" />
  </picture>
 </a>
+
+## License & Attribution
+
+This repository is a derivative work ("fork") of the **MiroFish** project by
+[666ghj and the MiroFish contributors](https://github.com/666ghj/MiroFish),
+which is licensed under the **GNU Affero General Public License v3.0
+(AGPL-3.0)**.
+
+In accordance with the AGPL-3.0, this repository — including the modifications
+by Kourosh Salehi-Ashtiani — is distributed under the **same AGPL-3.0 license**
+(see [`LICENSE`](LICENSE)). All original copyright and license notices from the
+upstream project have been retained.
+
+**Modifications in this fork:** added a biological simulation mode for protein-interaction-network analysis.
+
+> **Note (AGPL §13):** if you run a modified version of this software as a
+> network service, you must make the complete corresponding source code
+> available to its users.
